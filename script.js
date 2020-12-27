@@ -14,7 +14,7 @@ let food = {
 
 function criarBG(){
     context.fillStyle = "lightgreen";
-    context.fillRect(0, 0 ,16 * box, 16 * box);
+    context.fillRect(0, 0 ,15 * box, 15 * box);
 }
 
 function criarCobrinha(){
